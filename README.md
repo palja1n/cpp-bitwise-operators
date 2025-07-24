@@ -51,13 +51,14 @@ Right Shift divides a number by 2ⁿ.
 This is useful to visualize how each bitwise operator affects the binary representation of numbers.
 
 Sample Output:
+
 Enter the bit position to be set: 5
 
 Enter the bit position to be reset: 3
 
-Your number is:56
+Your number is: 56
 
-Your number is:16
+Your number is: 16
 
 # Program 2: Set and Reset Specific Bits
 This program shows how to set or reset a specific bit in an integer using bitwise operators.
@@ -88,4 +89,4 @@ right shift: 1
 left shift: 4
 
 # Conclusion
-Bitwise operators provide precise control over binary data at the bit level. They are fundamental in optimizing programs, especially when working with hardware, memory-mapped registers, or compact data formats. The programs explained above illustrate how to use these operators for common operations like logical bitwise manipulation and targeted bit setting/resetting.
+Bitwise operators offer low-level control over binary data, making them useful for tasks that require efficiency, such as hardware interaction or handling compact data formats. The programs above demonstrate how these operators can be used for common tasks like bitwise logic and selectively setting or clearing specific bits.
